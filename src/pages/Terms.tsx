@@ -1,6 +1,5 @@
 import React from 'react';
 import SEO from '../components/SEO';
-import Badge from '../components/Badge';
 import SectionTitle from '../components/SectionTitle';
 
 export const Terms: React.FC = () => {
